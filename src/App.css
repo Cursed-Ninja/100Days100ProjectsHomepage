@@ -54,12 +54,16 @@
   border-bottom: 3px solid #eeeeee;
 }
 
+a {
+  color: #afafff;
+}
+
 a:link {
   text-decoration: none;
 }
 
 a:visited {
-  color: #5772cd;
+  color: #afafff;
 }
 
 a:hover {
